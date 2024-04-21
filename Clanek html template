@@ -1,1 +1,10 @@
+ <div class="clanek">
+        <a class="a2" href="">
+            <center>
+            <h3 class="nadpismal n2"></h3>
+            <img class="obrazek o2" src="" alt="img"></center>
+          <p class="textik t2"></p>
+        <div class="dato d2"></div>
 
+       </a>
+  </div>
