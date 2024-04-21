@@ -16,7 +16,7 @@ if($(".dropdown").is(":hidden")){
 
 
 var nadpisy = [
-"Totalfilm"];
+"Rozhovor s filmovým publicistou"];
 
  var obrazky = [
 "Photos/Totalfilm.jpg"]
