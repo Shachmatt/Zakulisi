@@ -16,40 +16,20 @@ if($(".dropdown").is(":hidden")){
 
 
 var nadpisy = [
-"Zdar",
- "Čau",
-"Ahoj",
- "Čauky",
-"Dobrej"];
+"Totalfilm"];
 
  var obrazky = [
-"Photos/stažený soubor (1).jpeg",
-"Photos/stažený soubor.jpeg",
-"Photos/D1D7897-Final-Leveled-2560.jpg",
-"Photos/painting-mountain-lake-with-mountain-background_188544-9126.avif.jpg",
-"Photos/fvh.jpg"]
+"Photos/Totalfilm.jpg"]
 
 
  var textiky = [
-    "Je to přecijen moje chyba. V zimě se kupuje exotičtější ovoce. Velice populární jsou například mandarinky.",
-"Zapomněl jsem zmínit, že byla trochu kyselá, ale v zimě bývají okurky nic moc.",
-"Ahoj snědl jsem okurku a byla moc dobrá fakt jsem si pochutnal",
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget pharetra nisi, eu iaculis purus. Donec tortor dolor, egestas eget tortor ut, consequat volutpat tortor. Etiam suscipit nulla id est accumsan, a facilisis arcu finibus Duis feugiat velit a tellus tempor, id tempor erat ultrices.",
-"Mandarinky jsou ale podle mě přeceňované. Je to možná tím, že jsem je měl v zimním období víceméně pořád."]
+    "Náš první host pro náš první rozhovor je filmový publicista a tvůrce Totalfilm Podcast, Martin Mažári, se kterým jsme si povídali o aktuální situaci ve světě filmu."]
 
 var data = [
-    "1.2. 2024",
-    "2.2. 2024",
-    "3.2. 2024",
-    "4.2. 2024",
-    "5.2. 2024"
+    "21. 4. 2024"
 ]
 var klasy = [
-    "https://cs.wikipedia.org/wiki/Mastn%C3%A1_kyselina",
-    "https://www.google.com",
-    "https://www.seznam.cz",
-    "https://www.youtube.com/watch?v=AF8d72mA41M",
-    "clanek-template.html"
+    "Clanky/clanek1.html"
 ]
 
 
