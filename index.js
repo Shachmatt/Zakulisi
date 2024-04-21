@@ -29,7 +29,7 @@ var data = [
     "21. 4. 2024"
 ]
 var klasy = [
-    "Clanky/clanek1.html"
+    "Clanky/clanek-1.html"
 ]
 
 
